@@ -26,7 +26,7 @@ body {
     text-align: center;
     user-select: none;
     animation: gradient 3s ease infinite;
-    color: rgb(255, 251, 0);
+    color: rgb(0, 255, 255);
 }
 
 @media only screen and (max-width: 580px){
